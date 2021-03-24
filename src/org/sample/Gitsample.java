@@ -14,6 +14,11 @@ public class Gitsample {
 		System.out.println("javascript");
 		 int a=100,b=50;
 		 System.out.println(a+b);
+		 
+		 
+		String s =("Greenstech");
+		 
+		 
 
 	}
 }
