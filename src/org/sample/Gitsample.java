@@ -6,7 +6,9 @@ public class Gitsample {
 		
 		System.out.println("java");
 		System.out.println("datas");
+		System.out.println("javascript");
 		System.out.println("GIT");
 		System.out.println("Poorni");
+
 	}
 }
