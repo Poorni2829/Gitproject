@@ -6,5 +6,6 @@ public class Gitsample {
 		
 		System.out.println("java");
 		System.out.println("datas");
+		System.out.println("javascript");
 	}
 }
