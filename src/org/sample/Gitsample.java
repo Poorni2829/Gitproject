@@ -7,5 +7,7 @@ public class Gitsample {
 		System.out.println("java");
 		System.out.println("datas");
 		System.out.println("javascript");
+		 int a=100,b=50;
+		 System.out.println(a+b);
 	}
 }
