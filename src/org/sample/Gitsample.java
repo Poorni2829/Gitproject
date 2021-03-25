@@ -17,6 +17,8 @@ public class Gitsample {
 		 
 		 
 		String s =("Greenstech");
+		Long l=9876543210l;
+		System.out.println(l);
 		 
 		 
 
